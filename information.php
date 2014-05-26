@@ -37,11 +37,10 @@ Template Name: Information
 <div id="info_copy">
   <h1><?php the_title(); ?></h1>
   <br><br><br>
-The University of Leeds School of Design<br> Degree Show 2012 will take place between<br> June 18th and June 22nd.
+The University of Leeds School of Design<br> Degree Show 2014 will take place between<br> June 16th and June 20th.
 <br><br>
-The show will feature work from<br> students of all six of our courses:<br><br>
+The show will feature work from<br> students of all five of our courses:<br><br>
 BA Hons Art & Design<br>
-BA Hons Design & Colour Technology<br>
 BA Hons Design & Technology Management<br>
 BA Hons Fashion Design<br>
 BA Hons Graphic & Communication Design<br>
